@@ -1,4 +1,7 @@
-# test coverage for  [immutable (v3.8.1)](https://facebook.github.com/immutable-js)  [![npm package](https://img.shields.io/npm/v/npmtest-immutable.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-immutable) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-immutable.svg)](https://travis-ci.org/npmtest/node-npmtest-immutable)
+# npmtest-immutable
+
+#### test coverage for  [immutable (v3.8.1)](https://facebook.github.com/immutable-js)  [![npm package](https://img.shields.io/npm/v/npmtest-immutable.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-immutable) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-immutable.svg)](https://travis-ci.org/npmtest/node-npmtest-immutable)
+
 #### Immutable Data Collections
 
 [![NPM](https://nodei.co/npm/immutable.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/immutable)
@@ -9,9 +12,15 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-immutable/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-immutable/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-immutable/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-immutable/tree/gh-pages/build)|
 
+- [https://npmtest.github.io/node-npmtest-immutable/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-immutable/build/coverage.html/index.html)
+
 [![istanbul-coverage](https://npmtest.github.io/node-npmtest-immutable/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-immutable/build/coverage.html/index.html)
 
+- [https://npmtest.github.io/node-npmtest-immutable/build/test-report.html](https://npmtest.github.io/node-npmtest-immutable/build/test-report.html)
+
 [![test-report](https://npmtest.github.io/node-npmtest-immutable/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-immutable/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-immutable/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-immutable/build/apidoc.html)
 
 [![apidoc](https://npmdoc.github.io/node-npmdoc-immutable/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-immutable/build/apidoc.html)
 
