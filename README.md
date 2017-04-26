@@ -1,6 +1,6 @@
 # npmtest-immutable
 
-#### test coverage for  [immutable (v3.8.1)](https://facebook.github.com/immutable-js)  [![npm package](https://img.shields.io/npm/v/npmtest-immutable.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-immutable) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-immutable.svg)](https://travis-ci.org/npmtest/node-npmtest-immutable)
+#### basic test coverage for  [immutable (v3.8.1)](https://facebook.github.com/immutable-js)  [![npm package](https://img.shields.io/npm/v/npmtest-immutable.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-immutable) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-immutable.svg)](https://travis-ci.org/npmtest/node-npmtest-immutable)
 
 #### Immutable Data Collections
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-immutable/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-immutable/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-immutable/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-immutable/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-immutable/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-immutable/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-immutable/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-immutable/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-immutable/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-immutable/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-immutable/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-immutable/build/coverage.html/index.html)
 
@@ -157,7 +157,8 @@
         "definition": "dist/immutable.d.ts"
     },
     "typings": "dist/immutable-nonambient.d.ts",
-    "version": "3.8.1"
+    "version": "3.8.1",
+    "bin": {}
 }
 ```
 
